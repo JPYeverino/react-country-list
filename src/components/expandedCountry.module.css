@@ -1,0 +1,7 @@
+.container {
+  position: fixed;
+}
+
+.view-more {
+  color: var(--bright-color);
+}
